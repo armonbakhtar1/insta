@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://media.giphy.com/media/JU6QyrBD1z1w3QntDx/giphy.gif" width="40" height="40" />
+<img src="https://s4.gifyu.com/images/instagif.gif" width="40" height="40" />
